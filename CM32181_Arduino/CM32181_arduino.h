@@ -1,5 +1,5 @@
 /*
-  CM32181_arduino.h - Library for flashing Morse code.
+  CM32181_arduino.h - Library for cm32181 driver code.
   Created by Shine Hua 2017.01.11 
   Released into the public domain.
 */
