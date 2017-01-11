@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For CM32181 Driver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CM32181	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init_chip	KEYWORD2
+read_sensor_raw	KEYWORD2
+get_chip_ID	KEYWORD2
+powerdown_chip	KEYWORD2
+powerup_chip	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
