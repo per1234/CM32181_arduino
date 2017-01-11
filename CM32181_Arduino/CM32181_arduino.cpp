@@ -2,6 +2,7 @@
   CM32181_arduino.cpp - Library for cm32181 driver code.
   Created by Shine Hua 2017.01.11 
   Released into the public domain.
+  https://github.com/ShineHua2017/CM32181_arduino
 */
 
 #include <CM32181_arduino.h>
