@@ -18,7 +18,7 @@ boolean CM32181::init_chip(void)
 {
  
 		uint8_t quantity = 2;
-		uint32_t iaddr = 0x000B;
+		uint32_t iaddr = 0x0008;  //set ALS_IT = 1000
 		uint8_t isize = 3;
 		uint8_t sendStop = 0;
 		boolean detect = false;
